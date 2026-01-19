@@ -8,11 +8,6 @@ This repository is created to practice and understand core Git concepts through 
   - Creating and managing branches for feature development
   - Switching between branches
 
-- **Committing**
-  - Staging changes
-  - Writing meaningful commit messages
-  - Amending commits
-
 - **Merging**
   - Merging feature branches into the main branch
   - Understanding merge commits and conflict resolution
@@ -21,8 +16,6 @@ This repository is created to practice and understand core Git concepts through 
   - Creating pull requests for code review
   - Reviewing and merging pull requests
 
-- **Cherry-Pick**
-  - Selecting specific commits from one branch and applying them to another branch
 
 ## Repository Structure
 .
